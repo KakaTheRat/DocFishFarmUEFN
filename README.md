@@ -34,9 +34,7 @@ Cette instance contient deux paramètres modifiables :
 
 ### Tutoriel Vidéo
 
-<video src="./Videos/FishModif.mp4" autoplay loop muted controls style="max-width: 100%; height: auto;">
-</video>
----
+## [Voir la vidéo](./Videos/FishModif.mp4)
 
 ## 2. SFX
 
@@ -53,8 +51,7 @@ Tous les `SFX` se trouvent ici :
 
 ### Tutoriel Vidéo
 
-<video src="./Videos/SFXModif.mp4" autoplay loop muted controls style="max-width: 100%; height: auto;">
-</video>
+[Voir la vidéo](./Videos/FishModif.mp4)
 
 ---
 
@@ -70,8 +67,7 @@ Tous les `VFX` se trouvent ici :
 
 ### Tutoriel Vidéo
 
-<video src="./Videos/VFXModif.mp4" autoplay loop muted controls style="max-width: 100%; height: auto;">
-</video>
+[Voir la vidéo](./Videos/VFXModif.mp4)
 
 ---
 
