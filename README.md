@@ -34,7 +34,7 @@ Cette instance contient deux paramètres modifiables :
 
 ### Tutoriel Vidéo
 
-## [Voir la vidéo](./Videos/FishModif.mp4)
+## [Voir la vidéo](https://youtu.be/DpXQTje8czQ)
 
 ## 2. SFX
 
@@ -51,7 +51,7 @@ Tous les `SFX` se trouvent ici :
 
 ### Tutoriel Vidéo
 
-[Voir la vidéo](./Videos/FishModif.mp4)
+[Voir la vidéo](https://youtu.be/Zt_JzsAM8XE)
 
 ---
 
@@ -67,7 +67,7 @@ Tous les `VFX` se trouvent ici :
 
 ### Tutoriel Vidéo
 
-[Voir la vidéo](./Videos/VFXModif.mp4)
+[Voir la vidéo](https://youtu.be/Oh0djJffbpM)
 
 ---
 
